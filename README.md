@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently exploring myself <br>I'm interested in web development & Application Development <br>I'm currently a freelancer<br>I'm engaged in Community Outreach Programs <br>My work reflects proper composition of Science, Computer, Philosophy & Community.<br>Currently working on my Personal web-based Project Dravya Vista.<br>Have a genuine intention to take a step closer to be better myself.
+I'm currently exploring myself <br>I'm interested in web development & Application Development <br><br>I'm engaged in Community Outreach Programs <br>My work reflects proper composition of Science, Computer, Philosophy & Community.<br>
 
 
 ## 🌐 Socials:
